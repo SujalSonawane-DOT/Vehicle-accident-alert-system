@@ -27,7 +27,7 @@ Components Used
 4. Alert is sent within seconds
 
 Code
-![Project Image][(code.pdf(https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system/blob/main/Code.pdf)
+![Project code]([Code.pdf]((https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system/blob/main/Code.pdf))
 
 
 Future Improvements
