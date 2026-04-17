@@ -26,6 +26,9 @@ Components Used
 3. GSM module sends SMS alert to predefined number
 4. Alert is sent within seconds
 
+Code
+![Project Image][(code.pdf(https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system/blob/main/Code.pdf)
+
 
 Future Improvements
 - Mobile app integration will help simplify integration
