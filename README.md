@@ -27,6 +27,6 @@ Components Used
 4. Alert is sent within seconds
 
 
-## 🔮 Future Improvements
+Future Improvements
 - Mobile app integration will help simplify integration
 - Cloud data storage will help expand storage boundaries
