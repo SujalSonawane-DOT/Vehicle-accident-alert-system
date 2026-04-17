@@ -28,8 +28,11 @@ Components Used
 
 ![Project Report]([Vehicle Accident alert system Report.pdf](https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system/blob/main/Vehicle%20Acicdent%20alert%20system%20Report.pdf))
 
+ [View Project Report](https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system/blob/main/Vehicle%20Acicdent%20alert%20system%20Report.pdf)
+ 
 Code
-
+[View code](https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system/blob/main/Code.pdf)
+ 
 
 ![Project code]([Code.pdf](https://github.com/SujalSonawane-DOT/Vehicle-accident-alert-system/blob/main/Code.pdf)
 
